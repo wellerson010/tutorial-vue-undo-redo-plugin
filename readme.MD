@@ -1,0 +1,1 @@
+Teste feito com o tutorial [https://medium.com/js-dojo/create-a-vuex-undo-redo-plugin-for-vuejs-b9b89217db2c](Create A Vuex Undo/Redo Plugin For VueJS).
